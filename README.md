@@ -3,6 +3,12 @@
 ## Project Overview
 This project presents a comprehensive Amazon Sales Analysis Dashboard built using Microsoft Power BI. It covers 5 years of sales data across multiple product categories, providing key performance insights and interactive visualizations to support business decision-making.
 
+---
+
+![Sales Analysis Dashboard](Final%20Report.png)
+
+---
+
 ## Dataset
 The dataset consists of approximately 89K records capturing Amazon product sales from 2018 to 2022. It includes fields such as product category, product description, order date, price, quantity sold, customer reviews, and shipping locations.
 
